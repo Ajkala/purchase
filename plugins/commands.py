@@ -44,13 +44,13 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('➕ Add Me To Your Groups ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('Channel 👀', url='https://t.me/moviesss4ers'),
-                    InlineKeyboardButton('Group 👀', url='https://t.me/moviei43')
+                    InlineKeyboardButton('Channel 👀', url='https://t.me/+lhMLES0wyrk1MDQ9'),
+                    InlineKeyboardButton('Group 👀', url='https://t.me/+oJcEnMvvY5AyNGU1')
                 ],[
                     InlineKeyboardButton('Help ⚡', callback_data='help'),
                     InlineKeyboardButton('About Me 🙈', callback_data='about')
                 ],[
-                    InlineKeyboardButton('Any Queries DM Here ✅',url='https://t.me/Link_Reporter_Bot')
+                    InlineKeyboardButton('Backup Channel ✅',url='https://t.me/+nOQfyrzXjCBkMzk9')
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -90,10 +90,10 @@ async def start(client, message):
         return
     if len(message.command) == 2 and message.command[1] in ["subscribe", "error", "okay", "help"]:
         buttons = [[
-                    InlineKeyboardButton('Any Queries DM Here ✅', url='https://t.me/Link_Reporter_Bot')
+                    InlineKeyboardButton('➕ Add Me To Your Groups ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
                     InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat=''),
-                    InlineKeyboardButton('Channel 👀', url='https://t.me/moviesss4ers')
+                    InlineKeyboardButton('Channel 👀', url='https://t.me/+lhMLES0wyrk1MDQ9')
                 ],[
                     InlineKeyboardButton('Help ⚡', callback_data='help'),
                     InlineKeyboardButton('About Me 🙈', callback_data='about')
