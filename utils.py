@@ -380,7 +380,7 @@ def humanbytes(size):
 
 async def get_shortlink(link):
     https = link.split(":")[0]
-    if "http" == https:
+    if "https" == https:
         https = "https"
         link = link.replace("http", https)
     url = f'https://adrinolinks.com/api'
@@ -396,7 +396,7 @@ async def get_shortlink(link):
                     return data['shortenedUrl']
                 else:
                     logger.error(f"Error: {data['message']}")
-                    return f'https://{URL_SHORTNER_WEBSITE}/api?api={URL_SHORTNER_WEBSITE_API}&link={link}'
+                    return f'https://{URL_SHORTNER_WEBSITE}/api?api={URL_SHORTNER_WEBSITE_API}&url={link}'
 
     except Exception as e:
         logger.error(e)
