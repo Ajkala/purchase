@@ -463,7 +463,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                               InlineKeyboardButton('Channel 👀', url='https://t.me/+lhMLES0wyrk1MDQ9'),
                               InlineKeyboardButton('Group 👀', url='https://t.me/+oJcEnMvvY5AyNGU1')
                            ],[
-                              InlineKeyboardButton('Backup Channel ✅',url='https://t.me/+nOQfyrzXjCBkMzk9')
+                              InlineKeyboardButton('Backup Channel ✅',url='https://t.me/+LSA9HRGlQ8dkNDll')
                              ]
                             ]
                         )
@@ -790,7 +790,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     InlineKeyboardButton('Help ⚡', callback_data='help'),
                     InlineKeyboardButton('About Me 🙈', callback_data='about')
                 ],[
-                    InlineKeyboardButton('Backup Channel ✅',url='https://t.me/+nOQfyrzXjCBkMzk9')
+                    InlineKeyboardButton('Backup Channel ✅',url='https://t.me/+LSA9HRGlQ8dkNDll')
                   ]]
         
         reply_markup = InlineKeyboardMarkup(buttons)
