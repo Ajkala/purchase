@@ -175,7 +175,7 @@ async def next_page(bot, query):
             ],
         )
     btn.insert(0, [
-        InlineKeyboardButton("👉 How To Download 👈", url=f"https://t.me/moviesss4ers/10")
+        InlineKeyboardButton("👉 How To Download 👈", url=f"https://t.me/kpslinkteam/13")
     ])
     try:
         await query.edit_message_reply_markup(
