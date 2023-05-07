@@ -1338,7 +1338,7 @@ async def auto_filter(client, msg, spoll=False):
             )
 
     btn.insert(0, [
-        InlineKeyboardButton("👉 How To Download 👈", url=f"https://t.me/moviesss4ers/10")
+        InlineKeyboardButton("👉 How To Download 👈", url=f"https://t.me/kpslinkteam/13")
     ])
 
     if offset != "":
