@@ -383,9 +383,9 @@ async def get_shortlink(link):
     if "http" == https:
         https = "https"
         link = link.replace("http", https)
-    url = f'https://tnshort.net/api'
+    url = f'https://urlshortx.com/api'
     params = {'api': URL_SHORTNER_WEBSITE_API,
-              'url': https://go.,
+              'url': link,
               }
 
     try:
