@@ -93,7 +93,7 @@ async def start(client, message):
                     InlineKeyboardButton('➕ Add Me To Your Groups ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
                     InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat=''),
-                    InlineKeyboardButton('Channel 👀', url='https://t.me/+lhMLES0wyrk1MDQ9')
+                    InlineKeyboardButton('Channel 👀', url='https://t.me/leothalapathy67vijay')
                 ],[
                     InlineKeyboardButton('Help ⚡', callback_data='help'),
                     InlineKeyboardButton('About Me 🙈', callback_data='about')
