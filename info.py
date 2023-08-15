@@ -46,8 +46,8 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "Cluster")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Others
-URL_SHORTNER_WEBSITE = environ.get('URL_SHORTNER_WEBSITE', 'tnlink.in')
-URL_SHORTNER_WEBSITE_API = environ.get('URL_SHORTNER_WEBSITE_API', 'b6aace46d40c605fff8e0cafbcd8fbe416851f4d')
+URL_SHORTNER_WEBSITE = environ.get('URL_SHORTNER_WEBSITE', '')
+URL_SHORTNER_WEBSITE_API = environ.get('URL_SHORTNER_WEBSITE_API', '')
 PORT = environ.get("PORT", "8080")
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+DFzNjWEUB4s0NTE1')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/+DFzNjWEUB4s0NTE1')
