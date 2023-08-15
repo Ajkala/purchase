@@ -10,7 +10,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 📝 ʟᴀɴɢᴜᴀɢᴇ : <a href=https://www.python.org><b>ᴘʏᴛʜᴏɴ</b></a>\n
 📚 ʟɪʙʀᴀʀʏ : <a href=https://github.com/pyrogram/pyrogram><b>ᴘʏʀᴏɢʀᴀᴍ</b></a>\n
 📡 ʜᴏsᴛᴇᴅ ᴏɴ : <a href=vultr.com><b>ᴠᴘꜱ</b></a>\n
-© ᴘᴏᴡᴇʀᴇᴅ ʙʏ : <a href=https://t.me/+DFzNjWEUB4s0NTE1><b>ᴍᴏᴠɪᴇꜱꜱꜱ4ᴇʀꜱ</b></a>\n
+© ᴘᴏᴡᴇʀᴇᴅ ʙʏ : <a href=https://t.me/+pihWAHWUSMFkZmNl><b>ᴍᴏᴠɪᴇꜱꜱꜱ4ᴇʀꜱ</b></a>\n
 """
 
     SOURCE_TXT = """<b>𝐂𝐫𝐞𝐚𝐭𝐞 𝐎𝐧𝐞 𝐋𝐢𝐤𝐞 𝐓𝐡𝐢𝐬:</b>
@@ -170,7 +170,7 @@ If You Still Don't Get Movies then Owner Will Update Within 12Hour"""
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     CAPTION = """
-<b>{file_name}</b> \n\n🏆 <i><b>Main Channel » [Leothalapathy](https://t.me/+DFzNjWEUB4s0NTE1)</i>"""
+<b>{file_name}</b> \n\n🏆 <i><b>Main Channel » [Leothalapathy](https://t.me/+pihWAHWUSMFkZmNl)</i>"""
 
     IMDB_TEMPLATE_TXT = """
 <b><i>💫 Title : <a href={url}>{title}</a>  ({year}) 🎭 Genres : {genres} 🌟 IMDB Rating: <a href={url}/ratings>{rating}</a> / 10   📌 [How To Download](https://t.me/kpslinkteam/13) </i></b>"""
