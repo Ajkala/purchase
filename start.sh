@@ -1,7 +1,7 @@
 if [ -z $UPSTREAM_REPO ]
 then
   echo "Cloning main Repository"
-  git clone https://github.com/Ajaykum01/purchase /purchase 
+  git clone https://github.com/Ajaykum01/purchase /RolexTG 
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
   git clone $UPSTREAM_REPO /RolexTG
