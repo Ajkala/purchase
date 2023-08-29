@@ -173,7 +173,7 @@ If You Still Don't Get Movies then Owner Will Update Within 12Hour"""
 <b>{file_name}</b> \n\n🏆 <i><b>Main Channel » [Leothalapathy](https://t.me/+pihWAHWUSMFkZmNl)</i>"""
 
     IMDB_TEMPLATE_TXT = """
-<b><i>💫 Title : <a href={url}>{title}</a>  ({year}) 🎭 Genres : {genres} 🌟 IMDB Rating: <a href={url}/ratings>{rating}</a> / 10   📌 [How To Download](https://t.me/kpslinkteam/13) </i></b>"""
+<b><i>💫 Title : <a href={url}>{title}</a>  ({year}) 🎭 Genres : {genres} 🌟 IMDB Rating: <a href={url}/ratings>{rating}</a> / 10   📌 [How To Download](https://t.me/kpslinkteam/37) </i></b>"""
     
     ALL_FILTERS = """
 <b>Hᴇʏ {}, Tʜᴇsᴇ ᴀʀᴇ ᴍʏ ᴛʜʀᴇᴇ ᴛʏᴘᴇs ᴏғ ғɪʟᴛᴇʀs.</b>"""
