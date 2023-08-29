@@ -175,7 +175,7 @@ async def next_page(bot, query):
             ],
         )
     btn.insert(0, [
-        InlineKeyboardButton("👉 How To Download 👈", url=f"https://t.me/kpslinkteam/13")
+        InlineKeyboardButton("👉 How To Download 👈", url=f"https://t.me/kpslinkteam/37")
     ])
     try:
         await query.edit_message_reply_markup(
@@ -1338,7 +1338,7 @@ async def auto_filter(client, msg, spoll=False):
             )
 
     btn.insert(0, [
-        InlineKeyboardButton("👉 How To Download 👈", url=f"https://t.me/kpslinkteam/13")
+        InlineKeyboardButton("👉 How To Download 👈", url=f"https://t.me/kpslinkteam/37")
     ])
 
     if offset != "":
