@@ -47,7 +47,7 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Others
 URL_SHORTNER_WEBSITE = environ.get('URL_SHORTNER_WEBSITE', 'urlshortx.com')
-URL_SHORTNER_WEBSITE_API = environ.get('URL_SHORTNER_WEBSITE_API', '53a6462d3dd45b0485f78aedf2633a768c323c0b')
+URL_SHORTNER_WEBSITE_API = environ.get('URL_SHORTNER_WEBSITE_API', '6af25f9482488ae8f36d4819e4d588244e8bd297')
 PORT = environ.get("PORT", "8080")
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+pihWAHWUSMFkZmNl')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/+pihWAHWUSMFkZmNl')
